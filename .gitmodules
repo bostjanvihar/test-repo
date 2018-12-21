@@ -1,0 +1,3 @@
+[submodule "submodule/bio-labware"]
+	path = submodule/bio-labware
+	url = https://github.com/bostjanvihar/bio-labware.git
